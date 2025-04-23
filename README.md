@@ -1,9 +1,14 @@
 # Introduction-to-Software-Engineering
 
-Describe software engineering, Software Development Lifecycle (SDLC), and software development tools, technologies and stacks.  
+In the first lesson of this module, I was introduced to the field of software engineering. I learned about the software development lifecycle (SDLC), the key elements involved in building high-quality software, and how to write clear and effective requirements. In the second lesson, I explored various approaches to software development and discovered different career opportunities within the field. I also got the chance to hear from experienced professionals, which helped me understand how different roles collaborate to develop enterprise-level software.
 
-List different types of programming languages and create basic programming constructs such as loops and conditions using Python.   
+I also learned about the differences between front-end and back-end development in web and cloud applications, along with the technologies used in both areas. The lessons highlighted the benefits of working in teams and pairs, showing me how collaboration can improve efficiency and the overall development process. I was introduced to several application development tools that software engineers use to write, test, and release code, and I explored software stacks that support the execution of applications. In the hands-on lab, I used an integrated development environment (IDE) to develop and run code, which gave me a practical understanding of these tools.
 
-Outline approaches to application architecture and design, patterns, and deployment architectures.   
+This course also introduced me to the basics of programming. I started by learning about different categories of programming languages and the types of projects they’re best suited for. I discovered how to plan and organize code more effectively, and in the second lesson, I explored basic programming logic. I studied key programming concepts like identifiers, functions, and objects. In the lab, I practiced writing simple Python code, which was a great way to apply what I had learned.
 
-Summarize the skills required in software engineering and describe the career options it provides.
+As I moved into the next module, I focused on the foundations of enterprise software development. I learned about software architecture and its importance, as well as the design process, including structural design, behavioral models, and how to use Unified Modeling Language (UML) diagrams to communicate design ideas clearly with team members. I also explored object-oriented analysis and design (OOAD). In the second lesson, I got hands-on experience working with various architectural patterns that support the design process, and I gained insight into the software production environment and deployment components.
+
+I also learned about the day-to-day tasks of a software engineer. I discovered the essential hard and soft skills needed for success in the role and explored the job outlook for software engineers. The course helped me understand different career paths and job titles in software engineering, along with the responsibilities tied to each. I also studied the software engineering code of ethics, which highlighted the importance of professionalism and responsibility in the field.
+
+Finally, the course concluded with a final module that included both an assessment and a project. The assessment consisted of 20 multiple choice questions, with 4 questions covering each of the modules I completed. For the final project, I had to analyze a job posting based on everything I had learned throughout the course, tying it all together in a real-world context.
+
